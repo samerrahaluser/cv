@@ -11,6 +11,10 @@
       height: 0px;
     }
 
+    img:hover{
+      background-color: gold;
+    }
+
 /***********************CLASS SELECTOR***************************/
     .Lightside{
       color: red;
